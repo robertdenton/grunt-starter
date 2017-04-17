@@ -1,3 +1,6 @@
+# Custom
+*.map
+
 # Logs
 logs
 *.log
