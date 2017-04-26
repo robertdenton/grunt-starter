@@ -1,4 +1,6 @@
 # Custom
+aws-keys.json
+*.ai
 *.map
 
 # Logs
